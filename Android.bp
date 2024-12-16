@@ -47,6 +47,7 @@ license {
 
 cc_binary {
     name: "iperf3",
+    host_supported: true,
     srcs: [
         "src/*.c",
     ],
