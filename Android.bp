@@ -58,7 +58,7 @@ cc_binary {
         "-Wno-unused-parameter",
         "-Wno-unused-variable",
         // https://github.com/esnet/iperf/pull/855
-        "-Wno-format",
         "-Wno-constant-conversion",
+        "-Wno-format",
     ],
 }
