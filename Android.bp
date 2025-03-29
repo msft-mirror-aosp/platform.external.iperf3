@@ -60,5 +60,6 @@ cc_binary {
         // https://github.com/esnet/iperf/pull/855
         "-Wno-constant-conversion",
         "-Wno-format",
+        "-DHAVE_SO_BINDTODEVICE"
     ],
 }
