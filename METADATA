@@ -18,7 +18,7 @@ third_party {
   identifier {
     type: "Git"
     value: "https://github.com/esnet/iperf.git"
-    version: "c36b5e8ff07ab3c4d3ddcd71d2d02a1a39c6de15"
+    version: "76bd67f6e90e239a7686202d2b1b595159826d24"
     closest_version: "3.11"
   }
 }
